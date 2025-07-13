@@ -2,15 +2,19 @@
 <h3 align="center">🚀 A Passionate Frontend Developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://frnss24.github.io/My-Porto/" target="_blank">
-    🌐 Check out my portfolio
-  </a>
+  <a href="https://frnss24.github.io/My-Porto/" target="_blank">🌐 Check out my portfolio</a>
 </p>
 
-- 🔭 I’m currently working on: **Interactive Web Projects using React & Redux**
-- 🌱 I’m currently learning: **Next.js, TypeScript, and Tailwind CSS**
-- 💬 Ask me about: **JavaScript, React, or anything Frontend-related**
-- 📫 How to reach me: **sinagafrans061@gmail.com**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
+</p>
+
+---
+
+- 🔭 I’m currently working on: **Interactive Web Projects using React & Redux**  
+- 🌱 I’m currently learning: **Next.js, TypeScript, and Tailwind CSS**  
+- 💬 Ask me about: **JavaScript, React, or anything Frontend-related**  
+- 📫 How to reach me: **sinagafrans061@gmail.com**  
 - ⚡ Fun fact: **I think I'm funny 😆**
 
 ---
@@ -52,3 +56,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=radical" alt="Frans GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frnss24&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Frnss24&theme=nightowl&border_radius=5.5" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🐍 Contribution Graph Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Frnss24/Frnss24/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
