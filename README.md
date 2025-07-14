@@ -74,3 +74,11 @@
 </p>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=gruvbox&no-bg=true&row=2&column=4" alt="GitHub Trophy" />
+</p>
+
+---
