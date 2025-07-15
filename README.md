@@ -82,5 +82,3 @@
 </p>
 
 ---
-
-percantik ini
