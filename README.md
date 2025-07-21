@@ -69,10 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frnss24&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Frnss24&theme=nightowl&border_radius=5.5" alt="GitHub Streak Stats" />
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -80,5 +76,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=gruvbox&no-bg=true&row=2&column=4" alt="GitHub Trophy" />
 </p>
-
----
