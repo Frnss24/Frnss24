@@ -62,7 +62,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=github_dark&hide_title=false&count_private=true&hide_border=true&rank_icon=github" alt="Frans's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=github_dark&hide_title=false&count_private=true&hide_border=true&rank_icon=default" alt="Frans's GitHub Stats with Grade" />
 </p>
 
 <p align="center">
