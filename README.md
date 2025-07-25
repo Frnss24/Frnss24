@@ -59,20 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats in Grades
-
-| Komponen                    | Nilai |
-|----------------------------|-------|
-| ⭐ Stars                    | 🅲     |
-| ⏱️ Commits (2025)          | 🅱️➕   |
-| 🔁 Pull Requests           | 🅳     |
-| ❗ Issues                   | 🅴     |
-| 🧑‍🤝‍🧑 Repositories Contributed | 🅲     |
-
-*Estimation only – based on relative activity from GitHub metrics.*
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
