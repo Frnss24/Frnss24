@@ -59,27 +59,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats in Grades
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=github_dark&hide_title=false&count_private=true&hide_border=false&rank_icon=github" alt="Frans's GitHub Stats" />
-</p>
+| Komponen                    | Nilai |
+|----------------------------|-------|
+| ⭐ Stars                    | 🅲     |
+| ⏱️ Commits (2025)          | 🅱️➕   |
+| 🔁 Pull Requests           | 🅳     |
+| ❗ Issues                   | 🅴     |
+| 🧑‍🤝‍🧑 Repositories Contributed | 🅲     |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frnss24&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages Used by Frans" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frnss24&theme=github_dark" alt="GitHub Profile Summary Card" />
-</p>
-
----
-
-### 🔥 GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frnss24&theme=github-compact&area=true&hide_border=false" alt="Contribution Graph" />
-</p>
+*Estimation only – based on relative activity from GitHub metrics.*
 
 ---
 
