@@ -62,7 +62,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=algolia&rank=S,A,B,C&margin-w=15&no-bg=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=algolia&no-bg=true&column=7" alt="GitHub Trophy with Hyper Commiter" />
 </p>
 
 ---
