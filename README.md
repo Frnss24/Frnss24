@@ -62,5 +62,29 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=gruvbox&no-bg=true&row=2&column=4" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=algolia&rank=S,A,B,C&margin-w=15&no-bg=true" alt="GitHub Trophy" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=algolia" alt="GitHub Stats" />
+</p>
+
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frnss24&layout=compact&theme=algolia" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Frnss24/Frnss24/blob/output/github-contribution-grid-snake.svg" />
 </p>
