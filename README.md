@@ -30,7 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=Frnss24&theme=algolia" />
 </p>
