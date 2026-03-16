@@ -29,6 +29,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Frnss24&theme=algolia" />
