@@ -32,9 +32,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=algolia&no-frame=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frnss24&layout=compact&theme=algolia" />
 </p>
 
 <p align="center">
