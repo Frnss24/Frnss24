@@ -48,9 +48,9 @@
 ---
 
 ### 🚀 Featured Projects
-- 🐾 **PetPals** → Platform adopsi hewan (React + API)  
-- 🎮 **Racing Game Java** → Game dengan drifting mechanics  
-- 💬 **Forum App** → React + Redux + API integration  
+- 🐾 **PetPals** → Platform adopsi hewan (React + API)
+- 🎮 **Racing Game Java** → Game dengan drifting mechanics
+- 💬 **Forum App** → React + Redux + API integration
 
 ---
 
