@@ -21,25 +21,43 @@
 
 ---
 
+### 🎯 Current Focus
+- Building interactive UI with Next.js  
+- Learning backend integration (Supabase & Firebase)  
+- Improving UI/UX design consistency  
+
+---
+
 ### 🛠 Tech Stack
 <p>
-  <!-- Core -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   
-  <!-- State & Styling -->
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   
-  <!-- Backend / DB (biar keliatan upgrade 🔥) -->
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🐾 **PetPals** → Platform adopsi hewan (React + API)  
+- 🎮 **Racing Game Java** → Game dengan drifting mechanics  
+- 💬 **Forum App** → React + Redux + API integration  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=algolia" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frnss24&layout=compact&theme=algolia" height="150"/>
 </p>
 
 ---
@@ -48,3 +66,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Frnss24&theme=algolia" />
 </p>
+
+---
+
+### ⚡ Fun Fact
+- 🎹 I play piano and love mixing tech with music
