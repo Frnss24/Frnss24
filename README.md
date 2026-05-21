@@ -56,12 +56,5 @@
 
 ---
 
-### 🔥 GitHub Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Frnss24&theme=algolia" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 - 🎹 I play piano and love mixing tech with music
