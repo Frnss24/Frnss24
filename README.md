@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer from Indonesia</h3>
 
 <p align="center">
-  <a href="https://frnss24.github.io/My-Porto/">🌐 Portfolio</a> •
+  <a href="https://www.fransporto.me/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/fransiskus-sinaga241/">LinkedIn</a> •
   <a href="https://www.instagram.com/frnss24">Instagram</a>
 </p>
