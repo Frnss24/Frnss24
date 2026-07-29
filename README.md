@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fransiskus F. Sinaga</h1>
-<h3 align="center">Frontend Developer from Indonesia</h3>
+<h3 align="center">Engineering Student & Tech Developer from Indonesia</h3>
 
 <p align="center">
   <a href="https://www.fransporto.me/">🌐 Portfolio</a> •
@@ -14,47 +14,55 @@
 ---
 
 ### 🚀 About Me
-- 💻 Frontend Developer who loves building interactive web apps  
-- 🌱 Currently learning **Next.js, TypeScript, Tailwind CSS**  
-- ⚛️ Main stack: **JavaScript, React, Redux**  
+- 🎓 Engineering Student at **Universitas Diponegoro (UNDIP)**
+- 💻 Frontend Developer with a passion for **3D Web experiences (Three.js & GSAP)**
+- 🤖 Deeply engaged in **AI/ML (LLM Fine-Tuning, Computer Vision)** and **Network Engineering**
+- 🌱 Currently developing **SAPA ABK** and a **Banking LLM Chatbot**
 - 📫 Reach me: **sinagafrans061@gmail.com**
 
 ---
 
-### 🎯 Current Focus
-- Building interactive UI with Next.js  
-- Learning backend integration (Supabase & Firebase)  
-- Improving UI/UX design consistency  
+### 📈 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 🛠 Tech Stack
+
+**Frontend & 3D**  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+</p>
+
+**AI, Backend & Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-- 🐾 **PetPals** → Platform adopsi hewan (React + API)
-- 🎮 **Racing Game Java** → Game dengan drifting mechanics
-- 💬 **Forum App** → React + Redux + API integration
-
----
+- 🏦 **Banking LLM Chatbot** → Fine-tuned Llama 3 for financial FAQs & backend API integration.
+- 🤝 **SAPA ABK** → Web platform to enhance therapist-parent interaction for children with special needs.
+- 🧊 **3D Cinematic Web** → Real-time rendering and animations using Polycam photogrammetry, Three.js, and GSAP.
+- 🔍 **AI Object Detection** → Implemented YOLO for specialized classification tasks (e.g., shrimp disease detection).
+- 🐾 **PetPals & Forum App** → Interactive React + API platforms.
 
 ---
 
 ### ⚡ Fun Fact
-- 🎹 I play piano and love mixing tech with music
+- 🎹 I play piano, enjoy running, and love solving CTF cybersecurity challenges in my free time!
