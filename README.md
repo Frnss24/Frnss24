@@ -1,68 +1,237 @@
 <h1 align="center">Hi 👋, I'm Fransiskus F. Sinaga</h1>
-<h3 align="center">Engineering Student & Tech Developer from Indonesia</h3>
+<h3 align="center">
+Engineering Student • Full Stack Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://www.fransporto.me/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/fransiskus-sinaga241/">LinkedIn</a> •
-  <a href="https://www.instagram.com/frnss24">Instagram</a>
+  <a href="https://www.fransporto.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/fransiskus-sinaga241/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fransiskus%20Sinaga-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:sinagafrans061@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm05YmU4cHFnZnpsdmF5MDQyMjZydnUwMTl2dnRnejN0NWJnd2xkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="350" alt="coding gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm05YmU4cHFnZnpsdmF5MDQyMjZydnUwMTl2dnRnejN0NWJnd2xkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="420">
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Engineering Student at **Universitas Diponegoro (UNDIP)**
-- 💻 Frontend Developer with a passion for **3D Web experiences (Three.js & GSAP)**
-- 🤖 Deeply engaged in **AI/ML (LLM Fine-Tuning, Computer Vision)** and **Network Engineering**
-- 🌱 Currently developing **SAPA ABK** and a **Banking LLM Chatbot**
-- 📫 Reach me: **sinagafrans061@gmail.com**
+# 🚀 About Me
+
+I'm an Engineering Student at **Universitas Diponegoro (UNDIP)** passionate about building intelligent software through **Artificial Intelligence**, **Full Stack Development**, and **Interactive Web Experiences**.
+
+Currently focusing on:
+
+- 🤖 Large Language Models (LLM)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI Backend Development
+- 🌐 Next.js & React
+- 🎨 Three.js Interactive Websites
+- 🧠 Computer Vision
+- ☁️ Cloud & Network Engineering
 
 ---
 
-### 📈 GitHub Stats & Streak
+# 🚧 Currently Working On
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Frnss24&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+## 🏦 Banking LLM Chatbot
+
+An enterprise chatbot for Bank Jateng using Retrieval-Augmented Generation.
+
+Tech Stack
+
+- FastAPI
+- Qwen 2.5
+- ChromaDB
+- HuggingFace Embedding
+- CUDA
+- Llama.cpp
+- SSE Streaming
 
 ---
 
-### 🛠 Tech Stack
+## 🤝 SAPA ABK
 
-**Frontend & 3D**  
+A web platform designed to improve communication between therapists and parents of children with special needs.
+
+Features
+
+- Therapy Monitoring
+- Progress Tracking
+- Parent Dashboard
+- Home Program
+- Report Analytics
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java"/>
+
 </p>
 
-**AI, Backend & Tools**  
+---
+
+## Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs"/>
+
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🏦 **Banking LLM Chatbot** → Fine-tuned Llama 3 for financial FAQs & backend API integration.
-- 🤝 **SAPA ABK** → Web platform to enhance therapist-parent interaction for children with special needs.
-- 🧊 **3D Cinematic Web** → Real-time rendering and animations using Polycam photogrammetry, Three.js, and GSAP.
-- 🔍 **AI Object Detection** → Implemented YOLO for specialized classification tasks (e.g., shrimp disease detection).
-- 🐾 **PetPals & Forum App** → Interactive React + API platforms.
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+
+</p>
 
 ---
 
-### ⚡ Fun Fact
-- 🎹 I play piano, enjoy running, and love solving CTF cybersecurity challenges in my free time!
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase"/>
+
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-5E5CE6?style=flat"/>
+
+<img src="https://img.shields.io/badge/LangChain-green?style=flat"/>
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=flat"/>
+
+</p>
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🏦 Banking LLM Chatbot | AI Customer Service using RAG | FastAPI, Qwen, ChromaDB |
+| 🤝 SAPA ABK | Therapy Monitoring Platform | Next.js, Supabase |
+| 🎬 3D Portfolio Website | Interactive Three.js Website | Three.js, GSAP |
+| 🔍 YOLO Detection | Computer Vision Project | YOLO, OpenCV |
+| 🐾 PetPals | Community Platform | React, Express |
+| 📋 DoBOARD | Kanban Project Management App | Next.js, PostgreSQL |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Frnss24&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frnss24&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Frnss24&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frnss24&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Frnss24&theme=radical&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frnss24&theme=radical"/>
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="mailto:sinagafrans061@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fransiskus-sinaga241/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.fransporto.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+- 🎹 I enjoy playing piano.
+- 🏃 Running helps me recharge.
+- 🎮 I love building interactive 3D experiences.
+- 🤖 Passionate about AI, LLM, and Computer Vision.
+- 🛡️ I enjoy solving CTF cybersecurity challenges.
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Frnss24&label=Profile+Views&color=blueviolet&style=flat"/>
+
+</p>
